@@ -1,4 +1,4 @@
-# React Birthday Reminder Mini-App
+# React Tour Viewer Mini-App
   
   ![ScreenShot](./tourScreenshot.png)
 
