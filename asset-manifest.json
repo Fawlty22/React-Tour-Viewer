@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Tour-Viewer/static/css/main.8e49c9d7.chunk.css",
+    "main.js": "/React-Tour-Viewer/static/js/main.f4405040.chunk.js",
+    "main.js.map": "/React-Tour-Viewer/static/js/main.f4405040.chunk.js.map",
+    "runtime-main.js": "/React-Tour-Viewer/static/js/runtime-main.7238ddc4.js",
+    "runtime-main.js.map": "/React-Tour-Viewer/static/js/runtime-main.7238ddc4.js.map",
+    "static/js/2.b79bb511.chunk.js": "/React-Tour-Viewer/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/React-Tour-Viewer/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/React-Tour-Viewer/index.html",
+    "precache-manifest.e7940a0431ca64a4be6ba37de380fcfa.js": "/React-Tour-Viewer/precache-manifest.e7940a0431ca64a4be6ba37de380fcfa.js",
+    "service-worker.js": "/React-Tour-Viewer/service-worker.js",
+    "static/css/main.8e49c9d7.chunk.css.map": "/React-Tour-Viewer/static/css/main.8e49c9d7.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/React-Tour-Viewer/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7238ddc4.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.8e49c9d7.chunk.css",
+    "static/js/main.f4405040.chunk.js"
+  ]
+}
